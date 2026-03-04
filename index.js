@@ -30,12 +30,16 @@ app.get("/validate-item", async (req, res) => {
 
     const response = await fetch(steamApiUrl);
     const data = await response.json();
+console.log("Steam response:", data);
 
     res.json({
-      market_hash_name,
-      image_url: imageMap[market_hash_name] || null,
-      price: data.lowest_price || null
-    });
+      res.json({
+  market_hash_name,
+  image_url: imageMap[market_hash_name] || null,
+  price: data.lowest_price || data.median_price || null,
+  steam_raw: data
+});
+    
 
   } catch (err) {
     res.status(500).json({ error: "steam fetch failed" });
