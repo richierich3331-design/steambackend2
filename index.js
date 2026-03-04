@@ -1,0 +1,63 @@
+const express = require("express");
+const app = express();
+
+app.use(express.json());
+
+function extractMarketHashName(steamUrl) {
+  const parts = steamUrl.split("/market/listings/730/");
+  if (parts.length < 2) return null;
+  return decodeURIComponent(parts[1]);
+}
+
+const items = require("./Data/items.json");
+
+const imageMap = {};
+items.forEach(i => {
+  imageMap[i.market_hash_name] = i.image_url;
+});
+
+/* POST endpoint (kept, optional) */
+app.post("/validate-item", (req, res) => {
+  const { steam_url } = req.body;
+  if (!steam_url) return res.status(400).json({ error: "missing steam_url" });
+
+  const market_hash_name = extractMarketHashName(steam_url);
+  if (!market_hash_name) return res.status(400).json({ error: "invalid steam url" });
+
+  res.json({
+    market_hash_name,
+    image_url: imageMap[market_hash_name] || null
+  });
+});
+
+/* GET endpoint (for Bubble / browser) */
+app.get("/validate-item", (req, res) => {
+  const steam_url = req.query.steam_url;
+  if (!steam_url) return res.status(400).json({ error: "missing steam_url" });
+
+  const market_hash_name = extractMarketHashName(steam_url);
+  if (!market_hash_name) return res.status(400).json({ error: "invalid steam url" });
+
+  res.json({
+    market_hash_name,
+    image_url: imageMap[market_hash_name] || null
+  });
+});
+
+/* IMAGE REDIRECT ENDPOINT (NO API CONNECTOR NEEDED) */
+app.get("/item-image", (req, res) => {
+  const steam_url = req.query.steam_url;
+  if (!steam_url) return res.status(400).send("missing steam_url");
+
+  const market_hash_name = extractMarketHashName(steam_url);
+  if (!market_hash_name) return res.status(400).send("invalid steam url");
+
+  const image_url = imageMap[market_hash_name];
+  if (!image_url) return res.status(404).send("image not found");
+
+  res.redirect(image_url);
+});
+
+app.listen(3000, () => {
+  console.log("Server running on port 3000");
+});
