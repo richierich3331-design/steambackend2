@@ -1,3 +1,4 @@
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 const express = require("express");
 const app = express();
 
@@ -17,34 +18,29 @@ items.forEach(i => {
 });
 
 /* POST endpoint (kept, optional) */
-app.post("/validate-item", (req, res) => {
-  const { steam_url } = req.body;
-  if (!steam_url) return res.status(400).json({ error: "missing steam_url" });
-
-  const market_hash_name = extractMarketHashName(steam_url);
-  if (!market_hash_name) return res.status(400).json({ error: "invalid steam url" });
-
-  res.json({
-    market_hash_name,
-    image_url: imageMap[market_hash_name] || null
-  });
-});
-
-/* GET endpoint (for Bubble / browser) */
-app.get("/validate-item", (req, res) => {
+app.get("/validate-item", async (req, res) => {
   const steam_url = req.query.steam_url;
   if (!steam_url) return res.status(400).json({ error: "missing steam_url" });
 
   const market_hash_name = extractMarketHashName(steam_url);
   if (!market_hash_name) return res.status(400).json({ error: "invalid steam url" });
 
-  res.json({
-    market_hash_name,
-    image_url: imageMap[market_hash_name] || null
-  });
-});
+  try {
+    const steamApiUrl = `https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=${encodeURIComponent(market_hash_name)}`;
 
-/* IMAGE REDIRECT ENDPOINT (NO API CONNECTOR NEEDED) */
+    const response = await fetch(steamApiUrl);
+    const data = await response.json();
+
+    res.json({
+      market_hash_name,
+      image_url: imageMap[market_hash_name] || null,
+      price: data.lowest_price || null
+    });
+
+  } catch (err) {
+    res.status(500).json({ error: "steam fetch failed" });
+  }
+});/* IMAGE REDIRECT ENDPOINT (NO API CONNECTOR NEEDED) */
 app.get("/item-image", (req, res) => {
   const steam_url = req.query.steam_url;
   if (!steam_url) return res.status(400).send("missing steam_url");
