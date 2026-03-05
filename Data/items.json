@@ -1,100 +1,438 @@
-[
 {
-"market_hash_name": "Dual Berettas | Colony",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_a2104a1e0048a7e14c8a41f6b781f6f2b5ddf45c_0_dd2239b65f.png"
+  "market_hash_name": "AK-47 | The Oligarch",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-the-oligarch"
 },
 {
-"market_hash_name": "Dual Berettas | Twin Turbo",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b58b005100a4cb9509cb54e8db49518f0f401d48_0_94b5e86753.png"
+  "market_hash_name": "AK-47 | Inheritance",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-inheritance"
 },
 {
-"market_hash_name": "Dual Berettas | Melondrama",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_3d85998e89d0491b17db6d82e2a511eb443970b5_0_b3f663b0ed.png"
+  "market_hash_name": "AK-47 | Neon Revolution",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-neon-revolution"
 },
 {
-"market_hash_name": "Dual Berettas | Cobra Strike",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_51b5074bb7502229427a541d82681ad38d71e942_0_bf4b31b2c4.png"
+  "market_hash_name": "AK-47 | Legion of Anubis",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-legion-of-anubis"
 },
 {
-"market_hash_name": "Dual Berettas | Cobalt Quartz",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b9bd1818493d9b417c4ced1099a3e37c7993a973_0_76a913d20e.png"
+  "market_hash_name": "AK-47 | Asiimov",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-asiimov"
 },
 {
-"market_hash_name": "Dual Berettas | Hemoglobin",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_a396a38f573e3f63694d4ae86ec4b5da1347632f_0_80dafdc28f.png"
+  "market_hash_name": "AK-47 | Aquamarine Revenge",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-aquamarine-revenge"
 },
 {
-"market_hash_name": "Dual Berettas | Flora Carnivora",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_32fe90781349be54d3fdf3ea36bc9fdfeca51dd2_0_9cde47878d.png"
+  "market_hash_name": "AK-47 | Nightwish",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-nightwish"
 },
 {
-"market_hash_name": "Dual Berettas | Urban Shock",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_1a2775acecb48f1efd4b0d21fc96ed154cf9e421_0_c340118e7a.png"
+  "market_hash_name": "AK-47 | Vulcan",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-vulcan"
 },
 {
-"market_hash_name": "Dual Berettas | Sweet Little Angels",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_e2abe73ba633e9d689db146a6b8008551da36f88_0_8e97752b44.png"
+  "market_hash_name": "AK-47 | Head Shot",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-head-shot"
 },
 {
-"market_hash_name": "Dual Berettas | Angel Eyes",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_964fed28221dd6d3f74f3b250163cdf0bb8e31d5_0_e7a44d56f8.png"
-},
-
-{
-"market_hash_name": "Sawed-Off | The Kraken",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_kraken.png"
+  "market_hash_name": "AK-47 | Wild Lotus",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-wild-lotus"
 },
 {
-"market_hash_name": "Sawed-Off | Devourer",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_devourer.png"
+  "market_hash_name": "AK-47 | Neon Rider",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-neon-rider"
 },
 {
-"market_hash_name": "Sawed-Off | Kiss♥Love",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_kisslovelove.png"
+  "market_hash_name": "AK-47 | X-Ray",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-x-ray"
 },
 {
-"market_hash_name": "Sawed-Off | Wasteland Princess",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_wasteland_princess.png"
+  "market_hash_name": "AK-47 | Fire Serpent",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-fire-serpent"
 },
 {
-"market_hash_name": "Sawed-Off | Highwayman",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_highwayman.png"
-},
-
-{
-"market_hash_name": "M4A1-S | Dark Water",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_dark_water.png"
+  "market_hash_name": "AK-47 | B the Monster",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-b-the-monster"
 },
 {
-"market_hash_name": "M4A1-S | Basilisk",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_basilisk.png"
+  "market_hash_name": "AK-47 | Jaguar",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-jaguar"
 },
 {
-"market_hash_name": "M4A1-S | Flashback",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_flashback.png"
+  "market_hash_name": "AK-47 | Wasteland Rebel",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-wasteland-rebel"
 },
 {
-"market_hash_name": "M4A1-S | Emphorosaur-S",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_emphorosaur_s.png"
+  "market_hash_name": "AK-47 | Leet Museo",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-leet-museo"
 },
 {
-"market_hash_name": "M4A1-S | Night Terror",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_night_terror.png"
+  "market_hash_name": "AK-47 | Bloodsport",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-bloodsport"
 },
 {
-"market_hash_name": "M4A1-S | Glitched Paint",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_glitched_paint.png"
+  "market_hash_name": "AK-47 | The Empress",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-the-empress"
 },
 {
-"market_hash_name": "M4A1-S | Icarus Fell",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_icarus_fell.png"
+  "market_hash_name": "AK-47 | Gold Arabesque",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-gold-arabesque"
 },
 {
-"market_hash_name": "M4A1-S | Bright Water",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_bright_water.png"
+  "market_hash_name": "AK-47 | Fuel Injector",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-fuel-injector"
 },
 {
-"market_hash_name": "M4A1-S | Liquidation",
-"image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_liquidation.png"
+  "market_hash_name": "AK-47 | Aphrodite",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-aphrodite"
+},
+{
+  "market_hash_name": "AK-47 | Searing Rage",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-searing-rage"
+},
+{
+  "market_hash_name": "AK-47 | The Outsiders",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-the-outsiders"
+},
+{
+  "market_hash_name": "AK-47 | Hydroponic",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-hydroponic"
+},
+{
+  "market_hash_name": "AK-47 | Cartel",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-cartel"
+},
+{
+  "market_hash_name": "AK-47 | Case Hardened",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-case-hardened"
+},
+{
+  "market_hash_name": "AK-47 | Phantom Disruptor",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-phantom-disruptor"
+},
+{
+  "market_hash_name": "AK-47 | Redline",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-redline"
+},
+{
+  "market_hash_name": "AK-47 | Ice Coaled",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-ice-coaled"
+},
+{
+  "market_hash_name": "AK-47 | Point Disarray",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-point-disarray"
+},
+{
+  "market_hash_name": "AK-47 | Frontside Misty",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-frontside-misty"
+},
+{
+  "market_hash_name": "AK-47 | Panthera Onca",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-panthera-onca"
+},
+{
+  "market_hash_name": "AK-47 | Jet Set",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-jet-set"
+},
+{
+  "market_hash_name": "AK-47 | Red Laminate",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-red-laminate"
+},
+{
+  "market_hash_name": "AK-47 | Nouveau Rouge",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-nouveau-rouge"
+},
+{
+  "market_hash_name": "AK-47 | First Class",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-first-class"
+},
+{
+  "market_hash_name": "AK-47 | Emerald Pinstripe",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-emerald-pinstripe"
+},
+{
+  "market_hash_name": "AK-47 | Rat Rod",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-rat-rod"
+},
+{
+  "market_hash_name": "AK-47 | Slate",
+  "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-slate"
+}{
+  "market_hash_name": "Nova | Antique",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-antique"
+},
+{
+  "market_hash_name": "Nova | Hyper Beast",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-hyper-beast"
+},
+{
+  "market_hash_name": "Nova | Bloomstick",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-bloomstick"
+},
+{
+  "market_hash_name": "Nova | Graphite",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-graphite"
+},
+{
+  "market_hash_name": "Nova | Red Quartz",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-red-quartz"
+},
+{
+  "market_hash_name": "Nova | Gila",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-gila"
+},
+{
+  "market_hash_name": "Nova | Baroque Orange",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-baroque-orange"
+},
+{
+  "market_hash_name": "Nova | Koi",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-koi"
+},
+{
+  "market_hash_name": "Nova | Clear Polymer",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-clear-polymer"
+},
+{
+  "market_hash_name": "Nova | Toy Soldier",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-toy-soldier"
+},
+{
+  "market_hash_name": "Nova | Rising Skull",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-rising-skull"
+},
+{
+  "market_hash_name": "Nova | Wild Six",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-wild-six"
+},
+{
+  "market_hash_name": "Nova | Sobek's Bite",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-sobeks-bite"
+},
+{
+  "market_hash_name": "Nova | Ocular",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-ocular"
+},
+{
+  "market_hash_name": "Nova | Rising Sun",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-rising-sun"
+},
+{
+  "market_hash_name": "Nova | Exo",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-exo"
+},
+{
+  "market_hash_name": "Nova | Plume",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-plume"
+},
+{
+  "market_hash_name": "Nova | Ranger",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-ranger"
+},
+{
+  "market_hash_name": "Nova | Wurst Hölle",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-wurst-holle"
+},
+{
+  "market_hash_name": "Nova | Wood Fired",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-wood-fired"
+},
+{
+  "market_hash_name": "Nova | Yorkshire",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-yorkshire"
+},
+{
+  "market_hash_name": "Nova | Blaze Orange",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-blaze-orange"
+},
+{
+  "market_hash_name": "Nova | Modern Hunter",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-modern-hunter"
+},
+{
+  "market_hash_name": "Nova | Tempest",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-tempest"
+},
+{
+  "market_hash_name": "Nova | Quick Sand",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-quick-sand"
+},
+{
+  "market_hash_name": "Nova | Interlock",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-interlock"
+},
+{
+  "market_hash_name": "Nova | Dark Sigil",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-dark-sigil"
+},
+{
+  "market_hash_name": "Nova | Ghost Camo",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-ghost-camo"
+},
+{
+  "market_hash_name": "Nova | Windblown",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-windblown"
+},
+{
+  "market_hash_name": "Nova | Caged Steel",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-caged-steel"
+},
+{
+  "market_hash_name": "Nova | Rust Coat",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-rust-coat"
+},
+{
+  "market_hash_name": "Nova | Green Apple",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-green-apple"
+},
+{
+  "market_hash_name": "Nova | Candy Apple",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-candy-apple"
+},
+{
+  "market_hash_name": "Nova | Turquoise Pour",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-turquoise-pour"
+},
+{
+  "market_hash_name": "Nova | Rain Station",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-rain-station"
+},
+{
+  "market_hash_name": "Nova | Army Sheen",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-army-sheen"
+},
+{
+  "market_hash_name": "Nova | Walnut",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-walnut"
+},
+{
+  "market_hash_name": "Nova | Mandrel",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-mandrel"
+},
+{
+  "market_hash_name": "Nova | Moon in Libra",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-moon-in-libra"
+},
+{
+  "market_hash_name": "Nova | Currents",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-currents"
+},
+{
+  "market_hash_name": "Nova | Sand Dune",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-sand-dune"
+},
+{
+  "market_hash_name": "Nova | Marsh Grass",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-marsh-grass"
+},
+{
+  "market_hash_name": "Nova | Forest Leaves",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-forest-leaves"
+},
+{
+  "market_hash_name": "Nova | Polar Mesh",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-polar-mesh"
+},
+{
+  "market_hash_name": "Nova | Predator",
+  "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-predator"
+}{
+  "market_hash_name": "M249 | Aztec",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-aztec"
+},
+{
+  "market_hash_name": "M249 | Downtown",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-downtown"
+},
+{
+  "market_hash_name": "M249 | Nebula Crusader",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-nebula-crusader"
+},
+{
+  "market_hash_name": "M249 | Emerald Poison Dart",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-emerald-poison-dart"
+},
+{
+  "market_hash_name": "M249 | Magma",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-magma"
+},
+{
+  "market_hash_name": "M249 | Deep Relief",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-deep-relief"
+},
+{
+  "market_hash_name": "M249 | System Lock",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-system-lock"
+},
+{
+  "market_hash_name": "M249 | Spectre",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-spectre"
+},
+{
+  "market_hash_name": "M249 | OSIPR",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-osipr"
+},
+{
+  "market_hash_name": "M249 | Warbird",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-warbird"
+},
+{
+  "market_hash_name": "M249 | Hypnosis",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-hypnosis"
+},
+{
+  "market_hash_name": "M249 | Humidor",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-humidor"
+},
+{
+  "market_hash_name": "M249 | Spectrogram",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-spectrogram"
+},
+{
+  "market_hash_name": "M249 | Blizzard Marbleized",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-blizzard-marbleized"
+},
+{
+  "market_hash_name": "M249 | Shipping Forecast",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-shipping-forecast"
+},
+{
+  "market_hash_name": "M249 | Gator Mesh",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-gator-mesh"
+},
+{
+  "market_hash_name": "M249 | Midnight Palm",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-midnight-palm"
+},
+{
+  "market_hash_name": "M249 | Submerged",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-submerged"
+},
+{
+  "market_hash_name": "M249 | Jungle DDPAT",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-jungle-ddpat"
+},
+{
+  "market_hash_name": "M249 | Sleet",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-sleet"
+},
+{
+  "market_hash_name": "M249 | Sage Camo",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-sage-camo"
+},
+{
+  "market_hash_name": "M249 | Jungle",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-jungle"
+},
+{
+  "market_hash_name": "M249 | Impact Drill",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-impact-drill"
+},
+{
+  "market_hash_name": "M249 | Contrast Spray",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-contrast-spray"
+},
+{
+  "market_hash_name": "M249 | Predator",
+  "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-predator"
 }
-]
