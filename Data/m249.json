@@ -1,4 +1,5 @@
-{
+[
+  {
   "market_hash_name": "M249 | Aztec",
   "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-aztec"
 },
@@ -98,3 +99,4 @@
   "market_hash_name": "M249 | Predator",
   "image_url": "https://totalcsgo.com/skins/weapons/machinegun/m249/m249-predator"
 }
+]
