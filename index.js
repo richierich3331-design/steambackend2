@@ -10,11 +10,9 @@ function extractMarketHashName(steamUrl) {
   return decodeURIComponent(parts[1]);
 }
 
-/* REMOVE WEAR FROM SKIN NAME */
+/* REMOVE ANY WEAR FROM SKIN NAME */
 function normalizeSkinName(name) {
-  return name
-    .replace(/\s*\((Factory New|Minimal Wear|Field[- ]Tested|Well[- ]Worn|Battle[- ]Scarred)\)/i, "")
-    .trim();
+  return name.replace(/\s*\([^)]*\)/, "").trim();
 }
 
 const items = require("./Data/items.json");
