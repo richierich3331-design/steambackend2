@@ -19,7 +19,11 @@ const items = require("./Data/items.json");
 
 const imageMap = {};
 items.forEach(function (i) {
-  imageMap[i.market_hash_name.trim().toLowerCase()] = i.image_url;
+  const imageMap = {};
+items.forEach(function (i) {
+  if (i.market_hash_name && i.image_url) {
+    imageMap[i.market_hash_name.trim().toLowerCase()] = i.image_url;
+  }
 });
 
 /* VALIDATE ITEM */
