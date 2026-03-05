@@ -34,7 +34,7 @@ app.get("/validate-item", async function (req, res) {
   if (!market_hash_name)
     return res.status(400).json({ error: "invalid steam url" });
 
-  const baseName = normalizeSkinName(market_hash_name);
+  const baseName = normalizeSkinName(decodeURIComponent(market_hash_name));
 
   try {
     const steamApiUrl =
@@ -67,7 +67,7 @@ app.get("/item-image", function (req, res) {
   if (!market_hash_name)
     return res.status(400).send("invalid steam url");
 
-  const baseName = normalizeSkinName(market_hash_name);
+  const baseName = normalizeSkinName(decodeURIComponent(market_hash_name));
 
   const image_url = imageMap[baseName.trim().toLowerCase()];
   if (!image_url) return res.status(404).send("image not found");
