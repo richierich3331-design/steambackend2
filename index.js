@@ -10,6 +10,13 @@ function extractMarketHashName(steamUrl) {
   return decodeURIComponent(parts[1]);
 }
 
+/* REMOVE WEAR FROM SKIN NAME */
+function normalizeSkinName(name) {
+  return name
+    .replace(/\s*\((Factory New|Minimal Wear|Field[- ]Tested|Well[- ]Worn|Battle[- ]Scarred)\)/i, "")
+    .trim();
+}
+
 const items = require("./Data/items.json");
 
 const imageMap = {};
@@ -26,6 +33,8 @@ app.get("/validate-item", async function (req, res) {
   if (!market_hash_name)
     return res.status(400).json({ error: "invalid steam url" });
 
+  const baseName = normalizeSkinName(market_hash_name);
+
   try {
     const steamApiUrl =
       "https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=" +
@@ -39,7 +48,7 @@ app.get("/validate-item", async function (req, res) {
 
     res.json({
       market_hash_name: market_hash_name,
-      image_url: imageMap[market_hash_name] || null,
+      image_url: imageMap[baseName] || null,
       price: data.lowest_price || data.median_price || null,
     });
   } catch (err) {
@@ -57,7 +66,9 @@ app.get("/item-image", function (req, res) {
   if (!market_hash_name)
     return res.status(400).send("invalid steam url");
 
-  const image_url = imageMap[market_hash_name];
+  const baseName = normalizeSkinName(market_hash_name);
+
+  const image_url = imageMap[baseName];
   if (!image_url) return res.status(404).send("image not found");
 
   res.redirect(image_url);
