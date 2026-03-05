@@ -21,7 +21,10 @@ const items = require("./Data/items.json");
 const imageMap = {};
 items.forEach(function (i) {
   if (i.market_hash_name && i.image_url) {
-    imageMap[i.market_hash_name.trim().toLowerCase()] = i.image_url;
+    const normalized = normalizeSkinName(i.market_hash_name)
+      .trim()
+      .toLowerCase();
+    imageMap[normalized] = i.image_url;
   }
 });
 
@@ -34,7 +37,7 @@ app.get("/validate-item", async function (req, res) {
   if (!market_hash_name)
     return res.status(400).json({ error: "invalid steam url" });
 
-  const baseName = normalizeSkinName(decodeURIComponent(market_hash_name));
+  const baseName = normalizeSkinName(market_hash_name);
 
   try {
     const steamApiUrl =
@@ -67,7 +70,7 @@ app.get("/item-image", function (req, res) {
   if (!market_hash_name)
     return res.status(400).send("invalid steam url");
 
-  const baseName = normalizeSkinName(decodeURIComponent(market_hash_name));
+  const baseName = normalizeSkinName(market_hash_name);
 
   const image_url = imageMap[baseName.trim().toLowerCase()];
   if (!image_url) return res.status(404).send("image not found");
