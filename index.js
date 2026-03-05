@@ -66,6 +66,9 @@ app.get("/item-image", function (req, res) {
 
   const baseName = normalizeSkinName(market_hash_name);
 
+  console.log("Steam name:", market_hash_name);
+  console.log("Normalized:", baseName);
+
   const image_url = imageMap[baseName.trim().toLowerCase()];
   if (!image_url) return res.status(404).send("image not found");
 
