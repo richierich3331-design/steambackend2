@@ -1,5 +1,70 @@
 [
   {
+    "market_hash_name": "Dual Berettas | Colony",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_a2104a1e0048a7e14c8a41f6b781f6f2b5ddf45c_0_dd2239b65f.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Melondrama",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_3d85998e89d0491b17db6d82e2a511eb443970b5_0_b3f663b0ed.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Twin Turbo",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b58b005100a4cb9509cb54e8db49518f0f401d48_0_94b5e86753.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Cobra Strike",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_51b5074bb7502229427a541d82681ad38d71e942_0_bf4b31b2c4.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Cobalt Quartz",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b9bd1818493d9b417c4ced1099a3e37c7993a973_0_76a913d20e.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Hemoglobin",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_a396a38f573e3f63694d4ae86ec4b5da1347632f_0_80dafdc28f.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Flora Carnivora",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_32fe90781349be54d3fdf3ea36bc9fdfeca51dd2_0_9cde47878d.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Urban Shock",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_1a2775acecb48f1efd4b0d21fc96ed154cf9e421_0_c340118e7a.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Sweet Little Angels",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_e2abe73ba633e9d689db146a6b8008551da36f88_0_8e97752b44.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Angel Eyes",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_964fed28221dd6d3f74f3b250163cdf0bb8e31d5_0_e7a44d56f8.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Hydro Strike",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_37a65b94130c552a7942e1118e305538a66b9a1b_0_8dfbe6aee6.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Royal Consorts",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_e1a58593fb57c95a5fb083e1b84a5bdd3b320f0d_0_c231622f1d.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Dezastre",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_cd3995336928aefd9566f07fea6d47cbcc1c576b_0_0a68a0a3be.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Duelist",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_1db0e33f5d80dc2acc0e253769ec4d36746140ad_0_1f9635968b.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Marina",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_6c8c7826806889226e2c1550e6e48e2715a648f0_0_93280283ab.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Demolition",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_137479eb375e43bb2bb35572337e68531b597432_0_9760ac38b5.png"
+  }
+][
+  {
     "market_hash_name": "Dual Berettas | Twin Turbo",
     "display_name": "Dual Berettas | Twin Turbo",
     "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b58b005100a4cb9509cb54e8db49518f0f401d48_0_94b5e86753.png"
