@@ -39,4 +39,109 @@
     "market_hash_name": "Dual Berettas | Angel Eyes",
     "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_964fed28221dd6d3f74f3b250163cdf0bb8e31d5_0_e7a44d56f8.png"
   }
+  {
+  "market_hash_name": "Sawed-Off | The Kraken",
+  "display_name": "Sawed-Off | The Kraken",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_kraken.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Devourer",
+  "display_name": "Sawed-Off | Devourer",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_devourer.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Kiss♥Love",
+  "display_name": "Sawed-Off | Kiss♥Love",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_kisslovelove.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Wasteland Princess",
+  "display_name": "Sawed-Off | Wasteland Princess",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_wasteland_princess.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Highwayman",
+  "display_name": "Sawed-Off | Highwayman",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_highwayman.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Limelight",
+  "display_name": "Sawed-Off | Limelight",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_limelight.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Apocalypto",
+  "display_name": "Sawed-Off | Apocalypto",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_apocalypto.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Serenity",
+  "display_name": "Sawed-Off | Serenity",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_serenity.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Orange DDPAT",
+  "display_name": "Sawed-Off | Orange DDPAT",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_orange_ddpat.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Analog Input",
+  "display_name": "Sawed-Off | Analog Input",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_analog_input.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Amber Fade",
+  "display_name": "Sawed-Off | Amber Fade",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_amber_fade.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Brake Light",
+  "display_name": "Sawed-Off | Brake Light",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_brake_light.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Copper",
+  "display_name": "Sawed-Off | Copper",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_copper.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Morris",
+  "display_name": "Sawed-Off | Morris",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_morris.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Zander",
+  "display_name": "Sawed-Off | Zander",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_zander.png"
+},
+{
+  "market_hash_name": "Sawed-Off | First Class",
+  "display_name": "Sawed-Off | First Class",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_first_class.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Black Sand",
+  "display_name": "Sawed-Off | Black Sand",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_black_sand.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Origami",
+  "display_name": "Sawed-Off | Origami",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_origami.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Spirit Board",
+  "display_name": "Sawed-Off | Spirit Board",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_spirit_board.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Fubar",
+  "display_name": "Sawed-Off | Fubar",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_fubar.png"
+},
+{
+  "market_hash_name": "Sawed-Off | Yorick",
+  "display_name": "Sawed-Off | Yorick",
+  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_yorick.png"
+}
 ]
