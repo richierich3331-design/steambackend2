@@ -1,175 +1,42 @@
-[ {
-  "market_hash_name": "Dual Berettas | Colony",
-  "display_name": "Dual Berettas | Colony",
-  "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_a2104a1e0048a7e14c8a41f6b781f6f2b5ddf45c_0_dd2239b65f.png"
-},
-
+[
   {
-    "display_name": "Dual Berettas | Twin Turbo",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b58b005100a4cb9509cb54e8db49518f0f401d48_0_94b5e86753.png"
-  },
-  {
-    "display_name": "Dual Berettas | Melondrama",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_3d85998e89d0491b17db6d82e2a511eb443970b5_0_b3f663b0ed.png"
-  },
-  {
-    "display_name": "Dual Berettas | Cobra Strike",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_51b5074bb7502229427a541d82681ad38d71e942_0_bf4b31b2c4.png"
-  },
-  {
-    "display_name": "Dual Berettas | Cobalt Quartz",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b9bd1818493d9b417c4ced1099a3e37c7993a973_0_76a913d20e.png"
-  },
-  {
-    "display_name": "Dual Berettas | Hemoglobin",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_a396a38f573e3f63694d4ae86ec4b5da1347632f_0_80dafdc28f.png"
-  },
-  {
-    "display_name": "Dual Berettas | Flora Carnivora",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_32fe90781349be54d3fdf3ea36bc9fdfeca51dd2_0_9cde47878d.png"
-  },
-  {
-    "display_name": "Dual Berettas | Urban Shock",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_1a2775acecb48f1efd4b0d21fc96ed154cf9e421_0_c340118e7a.png"
-  },
-  {
-    "display_name": "Dual Berettas | Sweet Little Angels",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_e2abe73ba633e9d689db146a6b8008551da36f88_0_8e97752b44.png"
-  },
-  {
-    "display_name": "Dual Berettas | Angel Eyes",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_964fed28221dd6d3f74f3b250163cdf0bb8e31d5_0_e7a44d56f8.png"
-  },
-  {
-    "display_name": "Dual Berettas | Hydro Strike",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_37a65b94130c552a7942e1118e305538a66b9a1b_0_8dfbe6aee6.png"
-  },
-  {
-    "display_name": "Dual Berettas | Royal Consorts",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_e1a58593fb57c95a5fb083e1b84a5bdd3b320f0d_0_c231622f1d.png"
-  },
-  {
-    "display_name": "Dual Berettas | Dezastre",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_cd3995336928aefd9566f07fea6d47cbcc1c576b_0_0a68a0a3be.png"
-  },
-  {
-    "display_name": "Dual Berettas | Duelist",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_1db0e33f5d80dc2acc0e253769ec4d36746140ad_0_1f9635968b.png"
-  },
-  {
-    "display_name": "Dual Berettas | Marina",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_6c8c7826806889226e2c1550e6e48e2715a648f0_0_93280283ab.png"
-  },
-  {
-    "display_name": "Dual Berettas | Demolition",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_137479eb375e43bb2bb35572337e68531b597432_0_9760ac38b5.png"
-  },
-  {
-    "display_name": "Dual Berettas | Emerald",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_0475bb16deff41fb5ee76a86000202b18ef7c65a_0_b3686f5db6.png"
-  },
-  {
-    "display_name": "Dual Berettas | Anodized Navy",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_42152ba54e381c9111da0e7f8e6ba4fdc697497a_0_2e3e19dda4.png"
-  },
-  {
-    "display_name": "Dual Berettas | Cartel",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_f91ea7dc5269a44266b8472ba24fcbd9724199c4_0_314fe34f2b.png"
-  },
-  {
-    "display_name": "Dual Berettas | Dualing Dragons",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_5d4f9481f18f25e8f8614d78639761bd19b1f226_0_521dd4f1ac.png"
-  },
-  {
-    "display_name": "Dual Berettas | Retribution",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_e70f7e63d84020808ce1bb4593a8188edc73e3d0_0_2fb33b596b.png"
-  },
-  {
-    "display_name": "Dual Berettas | Black Limba",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_43acd24db5108155f83118cf99ac6a3c9bd7c1b4_0_5b27525c92.png"
-  },
-  {
-    "display_name": "Dual Berettas | Hideout",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_bbe2230f25846a6b22cac8503a88a96e71c8ed8c_0_700275ba09.png"
-  },
-  {
-    "display_name": "Dual Berettas | Tread",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_fc9b9b60075030eef98c204770c6a77cd54ada67_0_be0c360ea6.png"
-  },
-  {
-    "display_name": "Dual Berettas | Elite 1.6",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_15abd28957380ded4144c355bd04128420439614_0_a3d5c895d8.png"
-  },
-  {
-    "display_name": "Dual Berettas | Balance",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b12f61070b025a99f0b800d293d2565c24b5c05f_0_91b6787fcd.png"
-  },
-  {
-    "display_name": "Dual Berettas | Ventilators",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_40d3b2d19538df7c8d95180e5ebbc9e576ee124b_0_42f86fc109.png"
-  },
-  {
-    "display_name": "Dual Berettas | Panther",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_909b2445dd06febfd73db644cfc09d957d05ece3_0_2208385638.png"
-  },
-  {
-    "display_name": "Dual Berettas | Shred",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_35e2b3578cc007e4004ad0f366d34b7e544a4b3f_0_0dcc59dc16.png"
-  },
-  {
-    "display_name": "Dual Berettas | Stained",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_dfd34d61c654e0168f0bd22a39675131cbba98fb_0_08b5a4d64f.png"
-  },
-  {
-    "display_name": "Dual Berettas | Pyre",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_54516cc8e8d8141ef4fe488f5f722851f814cc72_0_e82be7ee92.png"
-  },
-  {
-    "display_name": "Dual Berettas | Switch Board",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_df70e640d9de64995fa61ce12fb79b9bb2f85f3d_0_ff1ae93ee0.png"
-  },
-  {
-    "display_name": "Dual Berettas | Polished Malachite",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_614052b37ff89c4cb288f41529d05db0088ae3e5_0_3ea33c4083.png"
-  },
-  {
-    "display_name": "Dual Berettas | Rose Nacre",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b74f675f6689a31ec25bfc75d01f127761532f8f_0_8fc534e783.png"
-  },
-  {
-    "display_name": "Dual Berettas | Drift Wood",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_f272b8838c353a2aac5417746f5cb88449ba8d14_0_557ace0791.png"
-  },
-  {
-    "display_name": "Dual Berettas | Heist",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_2fbb865f77fdf6b19e366a15a11def0b68cab2b5_0_8dece37809.png"
-  },
-  {
-    "display_name": "Dual Berettas | Briar",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_194c84d584e54494fa7480be2781ec7196212074_0_b1b81d364f.png"
-  },
-  {
-    "display_name": "Dual Berettas | Moon in Libra",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_0c21dc473e99578624b766d88d1a761c60db8c97_0_f975c35b17.png"
-  },
-  {
-    "display_name": "Dual Berettas | Contractor",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_ccaa0e0fdbf6dc8d071f21a164c427f18eacb544_0_7f5c640267.png"
-  },
-  {
-    "display_name": "Dual Berettas | Colony",
+    "market_hash_name": "Dual Berettas | Colony",
     "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_a2104a1e0048a7e14c8a41f6b781f6f2b5ddf45c_0_dd2239b65f.png"
   },
   {
-    "display_name": "Dual Berettas | BorDeux",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_86b8eb19dc9c23f2a6b1f89b83f6953cc32bf889_0_6b88440dd7.png"
+    "market_hash_name": "Dual Berettas | Twin Turbo",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b58b005100a4cb9509cb54e8db49518f0f401d48_0_94b5e86753.png"
   },
   {
-    "display_name": "Dual Berettas | Silver Pour",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_e0486aa9d6a97b20fe52276ab0e96b7974e3b5ae_0_868a5eeb34.png"
+    "market_hash_name": "Dual Berettas | Melondrama",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_3d85998e89d0491b17db6d82e2a511eb443970b5_0_b3f663b0ed.png"
   },
   {
-    "display_name": "Dual Berettas | Oil Change",
-    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_f512ce17350708826257c995acd5fd5d2d059d29_0_7fccbaac1b.png"
+    "market_hash_name": "Dual Berettas | Cobra Strike",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_51b5074bb7502229427a541d82681ad38d71e942_0_bf4b31b2c4.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Cobalt Quartz",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_b9bd1818493d9b417c4ced1099a3e37c7993a973_0_76a913d20e.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Hemoglobin",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_a396a38f573e3f63694d4ae86ec4b5da1347632f_0_80dafdc28f.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Flora Carnivora",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_32fe90781349be54d3fdf3ea36bc9fdfeca51dd2_0_9cde47878d.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Urban Shock",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_1a2775acecb48f1efd4b0d21fc96ed154cf9e421_0_c340118e7a.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Sweet Little Angels",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_e2abe73ba633e9d689db146a6b8008551da36f88_0_8e97752b44.png"
+  },
+  {
+    "market_hash_name": "Dual Berettas | Angel Eyes",
+    "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_964fed28221dd6d3f74f3b250163cdf0bb8e31d5_0_e7a44d56f8.png"
   }
 ]
