@@ -143,5 +143,41 @@
   "market_hash_name": "Sawed-Off | Yorick",
   "display_name": "Sawed-Off | Yorick",
   "image_url": "https://static.totalcsgo.com/totalcsgo-strapi/small_skin_yorick.png"
+},
+{
+"market_hash_name": "M4A1-S | Dark Water",
+"image_url": "IMAGE_URL_HERE"
+},
+{
+"market_hash_name": "M4A1-S | Basilisk",
+"image_url": "IMAGE_URL_HERE"
+},
+{
+"market_hash_name": "M4A1-S | Flashback",
+"image_url": "IMAGE_URL_HERE"
+},
+{
+"market_hash_name": "M4A1-S | Emphorosaur-S",
+"image_url": "IMAGE_URL_HERE"
+},
+{
+"market_hash_name": "M4A1-S | Night Terror",
+"image_url": "IMAGE_URL_HERE"
+},
+{
+"market_hash_name": "M4A1-S | Glitched Paint",
+"image_url": "IMAGE_URL_HERE"
+},
+{
+"market_hash_name": "M4A1-S | Icarus Fell",
+"image_url": "IMAGE_URL_HERE"
+},
+{
+"market_hash_name": "M4A1-S | Bright Water",
+"image_url": "IMAGE_URL_HERE"
+},
+{
+"market_hash_name": "M4A1-S | Liquidation",
+"image_url": "IMAGE_URL_HERE"
 }
 ]
