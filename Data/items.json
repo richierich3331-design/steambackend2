@@ -1,3 +1,4 @@
+[
 {
 "market_hash_name": "AK-47 | The Oligarch",
 "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-the-oligarch"
@@ -157,7 +158,7 @@
 {
 "market_hash_name": "AK-47 | Slate",
 "image_url": "https://totalcsgo.com/skins/weapons/rifle/ak-47/ak-47-slate"
-},
+}
 {
 "market_hash_name": "Nova | Antique",
 "image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-antique"
@@ -1265,4 +1266,5 @@
 "market_hash_name": "M4A4 | Dark Blossom",
 "image_url": "https://totalcsgo.com/skins/weapons/rifle/m4a4/m4a4-dark-blossom"
 }
+]
 
