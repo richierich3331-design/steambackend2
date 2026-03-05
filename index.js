@@ -19,7 +19,7 @@ const items = require("./Data/items.json");
 
 const imageMap = {};
 items.forEach(function (i) {
-  imageMap[i.market_hash_name.trim()] = i.image_url;
+  imageMap[i.market_hash_name.trim().toLowerCase()] = i.image_url;
 });
 
 /* VALIDATE ITEM */
@@ -46,7 +46,7 @@ app.get("/validate-item", async function (req, res) {
 
     res.json({
       market_hash_name: market_hash_name,
-      image_url: imageMap[baseName.trim()] || null,
+      image_url: imageMap[baseName.trim().toLowerCase()] || null,
       price: data.lowest_price || data.median_price || null,
     });
   } catch (err) {
@@ -66,7 +66,7 @@ app.get("/item-image", function (req, res) {
 
   const baseName = normalizeSkinName(market_hash_name);
 
-  const image_url = imageMap[baseName.trim()];
+  const image_url = imageMap[baseName.trim().toLowerCase()];
   if (!image_url) return res.status(404).send("image not found");
 
   res.redirect(image_url);
