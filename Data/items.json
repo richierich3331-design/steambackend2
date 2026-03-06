@@ -189,7 +189,7 @@
 },
 {
 "market_hash_name": "Nova | Caged Steel",
-"image_url": "https://totalcsgo.com/totalcsgo-strapi/small_skin_caged_steel.png"
+"image_url": "https://totalcsgo.com/skins/weapons/shotgun/nova/nova-caged-steel"
 },
 {
 "market_hash_name": "Nova | Rust Coat",
@@ -694,7 +694,7 @@
 {
 "market_hash_name": "FAMAS | Palm",
 "image_url": "https://totalcsgo.com/skins/weapons/rifle/famas/famas-palm"
-}
+},
 {
 "market_hash_name": "Galil AR | Chatterbox",
 "image_url": "https://totalcsgo.com/skins/weapons/rifle/galil-ar/galil-ar-chatterbox"
@@ -866,7 +866,7 @@
 {
 "market_hash_name": "Galil AR | Sage Spray",
 "image_url": "https://totalcsgo.com/skins/weapons/rifle/galil-ar/galil-ar-sage-spray"
-}
+},
 {
 "market_hash_name": "SG 553 | Hazard Pay",
 "image_url": "https://totalcsgo.com/skins/weapons/rifle/sg-553/sg-553-hazard-pay"
@@ -981,7 +981,7 @@
 },
 {
 "market_hash_name": "SG 553 | Gator Mesh",
-"image_url": "https://totalcsgo.com/skins/weapons/rifle/s_
+"image_url": "https://totalcsgo.com/skins/weapons/rifle/sg-553/sg-553-gator-mesh"
 },
 {
 "market_hash_name": "M4A4 | Howl",
